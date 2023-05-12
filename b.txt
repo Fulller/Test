@@ -1,1 +1,4 @@
 day la b.txt
+Toi la dev 1
+Toi la nguoi tot
+Toi khong uong ruou
