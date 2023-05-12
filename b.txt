@@ -1,4 +1,5 @@
 day la b.txt
-Toi al dev 2
-Toi dep trai
+Toi la dev 1
+Toi la nguoi tot
+Toi khong uong ruou
 lam sao de thanh mot dev gioi
