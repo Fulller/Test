@@ -1,1 +1,3 @@
 Day la cua dev 1
+dev2: hello word
+xin chao tac ca
