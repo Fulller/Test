@@ -1,3 +1,4 @@
 day la b.txt
 Toi al dev 2
 Toi dep trai
+lam sao de thanh mot dev gioi
